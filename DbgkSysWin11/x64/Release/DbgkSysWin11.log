@@ -1,0 +1,5 @@
+﻿  Building 'DbgkSysWin11' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  DbgkSysWin11.vcxproj -> D:\source\Driver\DbgkSys\x64\Release\DbgkSysWin11.sys
+  Done Adding Additional Store
+  Successfully signed: D:\source\Driver\DbgkSys\x64\Release\DbgkSysWin11.sys
+  

@@ -1,0 +1,57 @@
+﻿  Common.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(74,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(74,48): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(236,77): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  Hook.cpp
+  Blowfish.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(607,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(610,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(632,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(636,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(703,10): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(707,19): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+  FileSystem.cpp
+  Logger.cpp
+  DispatchData.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\Channels\DispatchData.cpp(40,22): warning C4244: “=”: 从“SIZE_T”转换到“ULONG”，可能丢失数据
+  DebugBreak.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  DebugEvent.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  dllmain.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(185,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(191,39): warning C4311: “类型强制转换”: 从“HMODULE”到“DWORD”的指针截断
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(191,39): warning C4302: “类型强制转换”: 从“HMODULE”到“DWORD”截断
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(191,50): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“PVOID”
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(123,10): warning C4101: “hModule”: 未引用的局部变量
+  Globals.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  functionSet.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(85,14): warning C4101: “Status”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(83,12): warning C4101: “hThread”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(84,15): warning C4101: “ClientId”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(347,35): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+  ApcInject.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  InjectCode.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(171,11): warning C4101: “Status”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(169,9): warning C4101: “hThread”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(170,12): warning C4101: “ClientId”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(165,8): warning C4101: “remoteAddress”: 未引用的局部变量
+  Log.cpp

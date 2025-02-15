@@ -1,0 +1,61 @@
+﻿  Assembling vmx\Asm\AsmCallsetX86.asm...
+  Common.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(250,14): warning C4018: “>=”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(263,14): warning C4018: “>=”: 有符号/无符号不匹配
+  Hook.cpp
+  Blowfish.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(612,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(633,12): warning C4018: “<”: 有符号/无符号不匹配
+  FileSystem.cpp
+  Logger.cpp
+  DispatchData.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  DebugBreak.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\DebugBreak\DebugBreak.cpp(322,48): warning C4244: “=”: 从“const ULONG64”转换到“DWORD”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Hook\DebugBreak\DebugBreak.cpp(337,48): warning C4244: “=”: 从“const ULONG64”转换到“DWORD”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Hook\DebugBreak\DebugBreak.cpp(342,48): warning C4244: “=”: 从“const ULONG64”转换到“DWORD”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Hook\DebugBreak\DebugBreak.cpp(347,48): warning C4244: “=”: 从“const ULONG64”转换到“DWORD”，可能丢失数据
+  DebugEvent.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  dllmain.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(185,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Hook\dllmain.cpp(123,10): warning C4101: “hModule”: 未引用的局部变量
+  Globals.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  functionSet.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(85,14): warning C4101: “Status”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(83,12): warning C4101: “hThread”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\HookCallSet\functionSet.cpp(84,15): warning C4101: “ClientId”: 未引用的局部变量
+  ApcInject.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  InjectCode.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(171,11): warning C4101: “Status”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(169,9): warning C4101: “hThread”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(170,12): warning C4101: “ClientId”: 未引用的局部变量
+E:\Projects\VS\repos\UnrealDbg\Hook\Inject\ShellCode\InjectCode.cpp(165,8): warning C4101: “remoteAddress”: 未引用的局部变量
+  Log.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+  vmx.cpp
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Projects\VS\repos\UnrealDbg\Hook\ntdll.h(230,23): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Projects\VS\repos\UnrealDbg\Hook\vmx\vmx.cpp(48,56): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Hook\vmx\vmx.cpp(65,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Hook\vmx\vmx.cpp(83,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+detours.lib(detours.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(detours.obj)”或在“E:\Projects\VS\repos\UnrealDbg\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+detours.lib(modules.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(modules.obj)”或在“E:\Projects\VS\repos\UnrealDbg\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+detours.lib(disasm.obj) : warning LNK4099: 未找到 PDB“detours.pdb”(使用“detours.lib(disasm.obj)”或在“E:\Projects\VS\repos\UnrealDbg\Debug\detours.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Hook.vcxproj -> E:\Projects\VS\repos\UnrealDbg\Debug\Hook.dll

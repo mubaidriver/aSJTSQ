@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{3B731188-A57A-45C6-A9F9-5AA901908459}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="UnrealDbg.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="UnrealDbg">
+        <MSBuild Projects="UnrealDbg.dproj"/>
+    </Target>
+    <Target Name="UnrealDbg:Clean">
+        <MSBuild Projects="UnrealDbg.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="UnrealDbg:Make">
+        <MSBuild Projects="UnrealDbg.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="UnrealDbg"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="UnrealDbg:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="UnrealDbg:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

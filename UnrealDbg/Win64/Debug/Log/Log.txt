@@ -1,0 +1,130 @@
+2024/6/8 15:43:51 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 15:44:40 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 15:46:19 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 15:52:10 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 15:53:49 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 15:58:42 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 16:04:55 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook.dll
+2024/6/8 16:04:56 [INFORMATION]: [AIHelper.dll] 启动远程线程成功！
+2024/6/8 16:04:56 [INFORMATION]: [UnrealDbgDll.dll] 调试器启动成功！
+2024/9/21 7:31:44 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 7:31:44 [Error]: [TL.exe] 处理GetTickCount检测失败
+2024/9/21 7:32:10 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 7:32:10 [Error]: [TL.exe] 处理GetTickCount检测失败
+2024/9/21 7:38:18 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:36:36 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:37:10 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:37:21 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:38:21 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:38:34 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:38:44 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:38:51 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:38:53 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:40:19 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:40:28 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/21 8:40:32 [INFORMATION]: [TL.exe] pid: 13840
+2024/9/27 9:41:03 [INFORMATION]: key登录成功!
+2024/9/27 9:45:13 [INFORMATION]: 用户时间已过期.
+2024/9/27 9:46:21 [INFORMATION]: 用户时间已过期.
+2024/9/27 9:46:54 [INFORMATION]: 用户时间已过期.
+2024/9/27 9:49:03 [INFORMATION]: 用户时间已过期.
+2024/9/27 9:49:40 [Error]: 用户时间已过期.
+2024/9/27 9:54:41 [Error]: 用户时间已过期.
+2024/9/27 9:54:44 [Error]: 未通过授权认证!
+2024/9/27 9:54:45 [Error]: 未通过授权认证!
+2024/9/27 9:54:45 [Error]: 未通过授权认证!
+2024/9/27 9:54:45 [Error]: 未通过授权认证!
+2024/9/27 9:54:45 [Error]: 未通过授权认证!
+2024/9/27 9:54:46 [Error]: 未通过授权认证!
+2024/9/27 9:54:46 [Error]: 未通过授权认证!
+2024/9/27 9:54:46 [Error]: 未通过授权认证!
+2024/9/27 9:54:46 [Error]: 未通过授权认证!
+2024/9/27 9:54:46 [Error]: 未通过授权认证!
+2024/9/27 9:54:47 [Error]: 未通过授权认证!
+2024/9/27 9:54:47 [Error]: 未通过授权认证!
+2024/9/27 9:54:47 [Error]: 未通过授权认证!
+2024/9/27 9:54:47 [Error]: 未通过授权认证!
+2024/9/27 9:56:52 [Error]: 用户时间已过期.
+2024/9/27 9:56:55 [Error]: 未通过授权认证!
+2024/9/27 9:56:56 [Error]: 未通过授权认证!
+2024/9/27 9:56:56 [Error]: 未通过授权认证!
+2024/9/27 9:56:56 [Error]: 未通过授权认证!
+2024/9/27 10:02:47 [Error]: 用户时间已过期.
+2024/9/27 10:03:23 [INFORMATION]: key登录成功!
+2024/9/27 10:04:12 [INFORMATION]: key登录成功!
+2024/9/27 10:04:22 [INFORMATION]: key登录成功!
+2024/9/27 10:04:32 [INFORMATION]: key登录成功!
+2024/9/27 10:04:34 [INFORMATION]: key登录成功!
+2024/9/27 10:04:37 [INFORMATION]: key登录成功!
+2024/9/27 10:04:40 [INFORMATION]: key登录成功!
+2024/9/27 10:04:44 [INFORMATION]: key登录成功!
+2024/9/27 10:04:47 [INFORMATION]: key登录成功!
+2024/9/27 10:04:49 [INFORMATION]: key登录成功!
+2024/9/27 10:04:52 [Error]: 用户点数不足.
+2024/9/27 10:04:59 [Error]: 用户点数不足.
+2024/9/27 10:07:03 [INFORMATION]: key登录成功!
+2024/9/27 10:08:56 [INFORMATION]: key登录成功!  剩余点数: 8.0
+2024/9/27 10:09:46 [INFORMATION]: key登录成功!
+2024/9/27 10:09:46 [INFORMATION]: 剩余点数: 7.0
+2024/9/27 10:12:39 [INFORMATION]: key登录成功!
+2024/9/27 10:12:39 [INFORMATION]: 剩余点数: 6.0
+2024/9/27 10:12:43 [INFORMATION]: key登录成功!
+2024/9/27 10:12:43 [INFORMATION]: 剩余点数: 5.0
+2024/9/27 10:12:47 [INFORMATION]: key登录成功!
+2024/9/27 10:12:47 [INFORMATION]: 剩余点数: 4.0
+2024/9/27 10:12:56 [INFORMATION]: key登录成功!
+2024/9/27 10:12:56 [INFORMATION]: 剩余点数: 3.0
+2024/9/27 10:12:59 [INFORMATION]: key登录成功!
+2024/9/27 10:12:59 [INFORMATION]: 剩余点数: 2.0
+2024/9/27 10:13:04 [INFORMATION]: key登录成功!
+2024/9/27 10:13:04 [INFORMATION]: 剩余点数: 1.0
+2024/9/27 10:13:09 [INFORMATION]: key登录成功!
+2024/9/27 10:13:09 [INFORMATION]: 剩余点数: 0.0
+2024/9/27 10:13:15 [Error]: 用户点数不足.
+2024/9/27 10:13:19 [Error]: 未通过授权认证!
+2024/9/27 10:13:19 [Error]: 未通过授权认证!
+2024/9/27 10:13:20 [Error]: 未通过授权认证!
+2024/9/27 10:13:20 [Error]: 未通过授权认证!
+2024/9/27 10:13:20 [Error]: 未通过授权认证!
+2024/9/27 10:14:09 [Error]: 请输入正确的卡密.
+2024/9/27 10:14:18 [Error]: 未通过授权认证!
+2024/9/27 10:14:21 [Error]: 未通过授权认证!
+2024/9/27 10:14:46 [Error]: 未通过授权认证!
+2024/9/27 10:14:46 [Error]: 未通过授权认证!
+2024/9/27 10:14:46 [Error]: 未通过授权认证!
+2024/9/27 10:14:47 [Error]: 未通过授权认证!
+2024/9/27 10:14:47 [Error]: 未通过授权认证!
+2024/9/27 10:14:47 [Error]: 未通过授权认证!
+2024/9/27 10:14:47 [Error]: 未通过授权认证!
+2024/9/27 10:14:48 [Error]: 未通过授权认证!
+2024/9/27 10:14:48 [Error]: 未通过授权认证!
+2024/9/27 10:14:48 [Error]: 未通过授权认证!
+2024/9/27 10:14:49 [Error]: 未通过授权认证!
+2024/9/27 10:14:49 [Error]: 未通过授权认证!
+2024/9/27 10:14:49 [Error]: 未通过授权认证!
+2024/9/27 10:14:50 [Error]: 未通过授权认证!
+2024/9/27 10:14:50 [Error]: 未通过授权认证!
+2024/9/27 10:14:50 [Error]: 未通过授权认证!
+2024/9/29 18:35:33 [INFORMATION]: key登录成功!
+2024/9/29 18:35:33 [INFORMATION]: 剩余点数: 992.0
+2024/10/9 16:06:11 [INFORMATION]: key登录成功!
+2024/10/9 16:06:11 [INFORMATION]: 剩余点数: 871.0
+2024/10/9 16:07:46 [INFORMATION]: key登录成功!
+2024/10/9 16:07:46 [INFORMATION]: 剩余点数: 870.0
+2024/10/9 16:56:06 [INFORMATION]: key登录成功!
+2024/10/9 16:56:06 [INFORMATION]: 剩余点数: 869.0
+2024/10/9 17:01:15 [INFORMATION]: key登录成功!
+2024/10/9 17:01:15 [INFORMATION]: 剩余点数: 868.0
+2024/10/9 17:02:09 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook64.dll
+2024/10/9 17:02:10 [INFORMATION]: [AIHelper.dll] 启动远程线程成功！
+2024/10/9 17:02:10 [INFORMATION]: [UnrealDbgDll.dll] 调试器启动成功！
+2024/10/9 17:04:23 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook64.dll
+2024/10/9 17:04:24 [INFORMATION]: [AIHelper.dll] 启动远程线程成功！
+2024/10/9 17:04:24 [INFORMATION]: [UnrealDbgDll.dll] 调试器启动成功！
+2024/10/9 17:10:33 [INFORMATION]: key登录成功!
+2024/10/9 17:10:33 [INFORMATION]: 剩余点数: 867.0
+2024/10/9 17:10:36 [INFORMATION]: [UnrealDbgDll.dll] E:\Projects\Delphi\UnrealDbg\Win64\Debug\Hook64.dll
+2024/10/9 17:10:37 [INFORMATION]: [AIHelper.dll] 启动远程线程成功！
+2024/10/9 17:10:37 [INFORMATION]: [UnrealDbgDll.dll] 调试器启动成功！
+2024/10/9 23:23:44 [INFORMATION]: key登录成功!
+2024/10/9 23:23:44 [INFORMATION]: 剩余点数: 865.0

@@ -1,0 +1,58 @@
+﻿  Building 'VT_Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling ASM\AsmCallset.asm...
+  Assembling ASM\exception-routines.asm...
+  Assembling ASM\interrupt-handlers.asm...
+  Assembling ASM\lde64.asm...
+  Assembling ASM\vm-exit.asm...
+  Assembling ASM\vm-launch.asm...
+  StringHandler.cpp
+E:\Projects\VS\repos\CheatHelper\Common\Ring0\String\StringHandler.cpp(92,17): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\CheatHelper\Common\Ring0\String\StringHandler.cpp(98,17): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Driver.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\Driver.cpp(19,59): warning C4805: “==”: 在操作中将类型“unsigned __int64”与类型“bool”混合不安全
+  EPT.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(629,21): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2400,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2401,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2402,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2403,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2404,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\EPT.cpp(2405,23): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned short”，可能丢失数据
+  gdt.cpp
+  Globals.cpp
+  hypervisor_gateway.cpp
+  hypervisor_routines.cpp
+  idt.cpp
+  InitNtoskrnl.cpp
+  invalid_ept.cpp
+  invalid_pcid.cpp
+  invalid_vpid.cpp
+  poolmanager.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\poolmanager.cpp(157,61): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\poolmanager.cpp(163,64): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\poolmanager.cpp(169,37): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\poolmanager.cpp(175,68): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+  spinlock.cpp
+  vmcall_handler.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmcall_handler.cpp(20,55): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmcall_handler.cpp(21,55): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmcall_handler.cpp(158,28): warning C4805: “==”: 在操作中将类型“unsigned __int64”与类型“bool”混合不安全
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmcall_handler.cpp(177,28): warning C4805: “==”: 在操作中将类型“unsigned __int64”与类型“bool”混合不安全
+  vmcs.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmcs.cpp(595,28): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+  vmexit_handler.cpp
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(63,55): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(64,55): warning C4244: “参数”: 从“unsigned __int64”转换到“unsigned long”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(180,46): warning C4805: “==”: 在操作中将类型“unsigned __int64”与类型“bool”混合不安全
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(784,53): warning C4244: “参数”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(911,31): warning C4244: “参数”: 从“uint16_t”转换到“unsigned char”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(1174,21): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(1274,31): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(1306,21): warning C4244: “参数”: 从“unsigned __int64”转换到“uint32_t”，可能丢失数据
+E:\Projects\VS\repos\CheatHelper\Ring0\VT_Driver\vmexit_handler.cpp(1314,2): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  vmm.cpp
+  正在生成代码...
+  VT_Driver.vcxproj -> E:\Projects\VS\repos\CheatHelper\x64\Release\VT_Driver.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Projects\VS\repos\CheatHelper\x64\Release\VT_Driver.sys
+  

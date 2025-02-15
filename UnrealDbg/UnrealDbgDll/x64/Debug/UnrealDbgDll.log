@@ -1,0 +1,27 @@
+﻿  Common.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(70,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(70,48): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(232,77): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  Blowfish.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(531,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(607,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(610,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(632,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(636,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(650,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(703,10): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(707,19): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(695,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(735,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FileSystem.cpp
+  Logger.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DispatchData.cpp

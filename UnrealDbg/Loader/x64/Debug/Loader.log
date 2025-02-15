@@ -1,0 +1,3 @@
+﻿  Symbols.cpp
+E:\Projects\VS\repos\UnrealDbg\Loader\Symbols.h(76,27): warning C4244: “初始化”: 从“float”转换到“ULONG”，可能丢失数据
+  Loader.vcxproj -> E:\Projects\VS\repos\UnrealDbg\x64\Debug\Loader.exe

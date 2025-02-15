@@ -1,0 +1,30 @@
+﻿  Common.cpp
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Common.cpp(85,48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Common.cpp(85,48): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Common.cpp(247,77): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  Blowfish.cpp
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(607,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(610,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(632,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(636,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(703,10): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(707,19): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+  FileSystem.cpp
+  Logger.cpp
+  DispatchData.cpp
+C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\UnrealDbgDll\Channels\DispatchData.cpp(38,22): warning C4244: “=”: 从“SIZE_T”转换到“ULONG”，可能丢失数据
+  dllmain.cpp
+  Globals.cpp
+  InitNTDevice.cpp
+  Interface.cpp
+  StartProcess.cpp
+    正在创建库 C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\x64\Release\UnrealDbgDll.lib 和对象 C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\x64\Release\UnrealDbgDll.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 663 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  UnrealDbgDll.vcxproj -> C:\Users\Administrator.DESKTOP-1DADFR4\Desktop\原大师4.1版本\虚幻调试器4.1.1源码\UnrealDbg\x64\Release\UnrealDbgDll.dll

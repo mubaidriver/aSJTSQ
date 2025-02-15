@@ -1,0 +1,59 @@
+﻿  Common.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(246,14): warning C4018: “>=”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Common\Common.cpp(259,14): warning C4018: “>=”: 有符号/无符号不匹配
+  Blowfish.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(531,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(612,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(633,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(650,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(695,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Encrypt\Blowfish\Blowfish.cpp(735,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FileSystem.cpp
+  Logger.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DispatchData.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  dllmain.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\dllmain.cpp(91,21): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Globals.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InitNTDevice.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Interface.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StartProcess.cpp
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(64,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(65,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(66,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(67,9): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\Common\Logger\Logger.h(121,39): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\StartProcess.cpp(92,3): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\StartProcess.cpp(96,4): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\StartProcess.cpp(100,4): error C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\StartProcess.cpp(122,2): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Projects\VS\repos\UnrealDbg\UnrealDbgDll\StartProcess.cpp(123,2): error C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

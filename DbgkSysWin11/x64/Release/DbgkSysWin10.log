@@ -1,0 +1,32 @@
+﻿  Building 'DbgkSysWin10' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Assembling Asm\AsmCode.asm...
+  Assembling Hvm\ASM\AsmCallset.asm...
+  Assembling Hvm\ASM\lde64.asm...
+  ApcInject.cpp
+  DbgkApi.cpp
+  DebugBreak.cpp
+  Driver.cpp
+D:\source\Driver\DbgkSys\DbgkSysWin10\Driver.cpp(921,43): warning C4311: “类型强制转换”: 从“HANDLE”到“DWORD”的指针截断
+D:\source\Driver\DbgkSys\DbgkSysWin10\Driver.cpp(921,43): warning C4302: “类型强制转换”: 从“HANDLE”到“DWORD”截断
+  Blowfish.cpp
+  Globals.cpp
+  EptHook.cpp
+  hypervisor_gateway.cpp
+  InitNtoskrnl.cpp
+  InitSymbolic.cpp
+  InitWin32kbase.cpp
+  InitWin32kfull.cpp
+  MyList.cpp
+  log.cpp
+  ReadWrite.cpp
+D:\source\Driver\DbgkSys\DbgkSysWin10\Memory\ReadWrite.cpp(66,39): warning C4244: “参数”: 从“SIZE_T”转换到“ULONG”，可能丢失数据
+  Callbacks.cpp
+  ProtectProcess.cpp
+  ProtectDrx.cpp
+  BypassFindWnd.cpp
+  StringHandler.cpp
+  正在生成代码...
+  DbgkSysWin10.vcxproj -> D:\source\Driver\DbgkSys\x64\Release\DbgkSysWin10.sys
+  Done Adding Additional Store
+  Successfully signed: D:\source\Driver\DbgkSys\x64\Release\DbgkSysWin10.sys
+  
